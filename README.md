@@ -6,3 +6,8 @@ Statistician and Data Analyst with 2 years of experience in Monitoring & Evaluat
 M&E systems that track program performance and improve targeting accuracy. Manages end-to-end data lifecycles from
 strategic data collection to developing interactive dashboards. Proficient in translating messy, real-world data into clear
 narratives that drive operational efficiency and social impact.
+
+## Connect with me
+
+**LinkedIn:** [berkcansuner](https://linkedin.com/in/berkcansuner)
+**Email:** [berkcansuner@gmail.com](mailto:berkcansuner@gmail.com)
