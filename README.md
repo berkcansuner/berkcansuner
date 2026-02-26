@@ -10,4 +10,5 @@ narratives that drive operational efficiency and social impact.
 ## Connect with me
 
 **LinkedIn:** [berkcansuner](https://linkedin.com/in/berkcansuner)
+
 **Email:** [berkcansuner@gmail.com](mailto:berkcansuner@gmail.com)
