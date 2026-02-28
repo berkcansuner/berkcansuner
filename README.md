@@ -1,6 +1,6 @@
 # Welcome, I'm Berk
 
-### Data Analyst
+### Data Scientist
 
 Statistician and Data Analyst with 2 years of experience in Monitoring & Evaluation (M&E). Expertise in building
 M&E systems that track program performance and improve targeting accuracy. Manages end-to-end data lifecycles from
