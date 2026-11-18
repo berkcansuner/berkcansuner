@@ -8,9 +8,9 @@ cash assistance across about 25,000 household records, and validated it with inc
 and exclusion error analysis.
 
 ## Projects
+- [hillstrom-email-uplift](https://github.com/berkcansuner/hillstrom-email-uplift) (Python, SQL): A/B test analysis of a 64,000-customer email experiment, from randomization checks to uplift models and targeting policy evaluation.
 - [cdisc-safety-reporting](https://github.com/berkcansuner/cdisc-safety-reporting) (R): SDTM to ADaM with admiral, TEAE tables and a Kaplan-Meier analysis, each step validated.
 - [Humanitaria](https://github.com/berkcansuner/Humanitaria) (Python): RAG assistant for ReliefWeb humanitarian reports. [Live demo](https://humanitaria.onrender.com)
-- hillstrom-email-uplift (Python, SQL): A/B test and uplift analysis. In progress.
 
 ## Tools
 R, Python, SQL, Power BI, Git
